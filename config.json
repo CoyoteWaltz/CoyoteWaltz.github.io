@@ -2,5 +2,6 @@
     "title":"Coyote's Blog",
     "subTitle":"thoughts, rationality and illusion",
     "avatarUrl":"https://avatars.githubusercontent.com/u/46889283",
-    "GMEEK_VERSION":"last"
+    "GMEEK_VERSION":"last",
+    "singlePage": ["link"]
 }
